@@ -39,6 +39,9 @@ web_modules/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Database files
+config.*
+
 ### Node Patch ###
 # Serverless Webpack directories
 .webpack/
